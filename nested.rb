@@ -102,7 +102,6 @@ def changing_alan
   # return the entire updated hash
   programmer_hash
 end 
-end
 
 def adding_to_dennis
 
