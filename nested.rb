@@ -36,7 +36,7 @@ def alan_kay_is_known_for
         :known_for => "Unix",
         :languages => ["C"]
       }
-      
+    return [:alan_kay][:known_for]
     }
 
 end
